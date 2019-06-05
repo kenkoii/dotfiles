@@ -14,6 +14,25 @@ alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
 alias p="cd ~/projects"
 alias g="git"
+alias git="hub"
+
+# git related
+alias g!="g init"
+alias gcof="g checkout -f"
+alias gcob="g checkout -b"
+alias ga="g add"
+alias gc="g commit -sS"
+alias gd="g diff"
+alias gl="g log"
+alias gs="g status"
+alias gp="g push"
+alias gf="g fetch"
+alias gr="g rebase"
+alias gpr-b="git pull-request -b"
+alias gpom-rb="g pull origin master --rebase"
+alias gb="g branch"
+alias gpf="g push origin -f"
+alias gdel="g branch -d"
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
