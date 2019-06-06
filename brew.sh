@@ -43,7 +43,6 @@ brew install vim --with-override-system-vi
 brew install grep
 brew install openssh
 brew install screen
-brew install php
 brew install gmp
 
 # Install font tools.
@@ -107,5 +106,6 @@ brew install zopfli
 
 # Install smarter cd
 brew install z
+
 # Remove outdated versions from the cellar.
 brew cleanup
