@@ -106,6 +106,7 @@ brew install zopfli
 
 # Install smarter cd
 brew install z
+brew install neovim
 
 # Remove outdated versions from the cellar.
 brew cleanup
