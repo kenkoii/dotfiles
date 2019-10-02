@@ -107,6 +107,7 @@ brew install zopfli
 # Install smarter cd
 brew install z
 brew install neovim
+brew install jq
 
 # Remove outdated versions from the cellar.
 brew cleanup
