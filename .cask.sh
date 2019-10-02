@@ -12,14 +12,11 @@ brew cask install docker
 # Browsers
 brew cask install firefox
 brew cask install google-chrome
-# brew cask install brave-browser
+brew cask install brave-browser
 
 # Install utils app
-# brew cask install dash
 brew cask install insomnia
 brew cask install sequel-pro
-# brew cask install keybase
-# brew cask install amethyst
 
 # Install productivity
 brew cask install slack
